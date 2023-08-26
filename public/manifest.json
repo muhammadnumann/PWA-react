@@ -1,0 +1,25 @@
+{
+  "name": "GROW AND SHARE",
+  "short_name": "GROW AND SHARE",
+  "start_url": "index.html",
+  "icons": [
+    {
+      "src": "Fav.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "Fav.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "splash.png",
+      "sizes": "511x511",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#5d8b2f",
+  "display": "standalone",
+  "theme_color": "#5d8b2f"
+}
